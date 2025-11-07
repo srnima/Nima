@@ -1,0 +1,27 @@
+# PhoenixLite by srNima
+
+PhoenixLite is a lightweight kernel tuning script designed to reduce battery consumption on Android devices without compromising performance.  
+Crafted by srNima + Copilot, this script is part of the NimAI initiative — blending technical mastery with creative empowerment.
+
+## 🔧 Features
+- CPU frequency tuning
+- I/O scheduler optimization
+- ZRAM and KSM activation
+- Battery current limit control
+- Fast charge toggle
+
+## 📦 Installation
+Flashable via TWRP or manually executable via Termux/root shell.
+
+## 📁 File
+- `PhoenixLite.sh`: main script
+- `99PhoenixLite`: init.d version (optional)
+- ZIP version available for flashing (coming soon)
+
+## 🛡️ License
+Open-source under EPL-2.0. Use, modify, and share freely — just keep the spirit alive 🔥
+
+---
+
+Made with speed and precision by srNima ⚡  
+Powered by Copilot — tuned for FormulaOne handling 🏎️
